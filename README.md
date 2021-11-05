@@ -1,2 +1,0 @@
-# AI-virtual-keyboard
-practice
